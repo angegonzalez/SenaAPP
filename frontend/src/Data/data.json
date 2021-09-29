@@ -1,0 +1,34 @@
+{
+  "courseNumbers": [
+    "1985200",
+    "2063480",
+    "2141976",
+    "2184135",
+    "2141973",
+    "2184089",
+    "2232640",
+    "2232634",
+    "2232638",
+    "2268836"
+  ],
+  "courseNames": [
+    "GESTIÓN INTEGRAL EN FONDOS DE PENSIONES Y CESANTÍAS",
+    "ASESORÍA COMERCIAL Y OPERACIONES DE ENTIDADES FINANCIERAS",
+    "GESTIÓN BANCARIA Y DE ENTIDADES FINANCIERAS",
+    "GESTIÓN DE NEGOCIOS FIDUCIARIOS",
+    "OPERACIONES COMERCIALES EN RETAIL"
+  ],
+  "moments": [
+    "MOMENTO 3: Plan de concertación de actividades",
+    "MOMENTO 4: Evaluación PARCIAL",
+    "MOMENTO 5: Evaluación FINAL",
+    "VISITA ESPECIAL"
+  ],
+  "alternatives": [
+    "Contrato de aprendizaje",
+    "Monitorías",
+    "Pasantías",
+    "Proyecto productivo",
+    "Vínculo laboral"
+  ]
+}
